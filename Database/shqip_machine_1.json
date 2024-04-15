@@ -1,0 +1,28 @@
+[
+  {
+    "question": "Çfarë është një rrjet neural?",
+    "answer": "Një rrjet neural është një model kompjuterik i frymëzuar nga truri njerëzor, i përbërë nga nodet e lidhura njëra me tjetrën të quajtura neurona, të cilat mund të trajnohen për të kryer detyra si klasifikimi, regresioni dhe njohja e modeleve.",
+    "follow_up_allowed": true,
+    "follow_up": [
+      {
+        "question": "Si funksionon një rrjet neural?",
+        "answer": "Një rrjet neural funksionon duke kaluar të dhënat hyrëse nëpërmjet shtresave të lidhura të neuroneve, çdo shtresë proceson dhe transformon të dhënat hyrëse deri sa prodhon një rezultat. Gjatë trajnimit, rrjeti ndryshon parametrat e tij të brendshëm nëpërmjet një procesi të quajtur rikthim për të minimizuar ndryshimin midis prodhimit të tij parashikuar dhe prodhimit të vërtetë."
+      },
+      {
+        "question": "Cilat janë llojet e rrjeteve neurale?",
+        "answer": "Ka disa lloje të rrjeteve neurale, duke përfshirë rrjete neurale me përparim të drejtuar, rrjete neurale konvuluzione (CNN), rrjete neurale rekurrente (RNN), rrjete neurale me kujtesë të shkurtër afat (LSTM), dhe më shumë. Çdo lloj ka arkitekturën e vet dhe është i përshtatshëm për detyra specifike."
+      }
+    ]
+  },
+  {
+    "question": "Si funksionon një kompjuter?",
+    "answer": "Një kompjuter funksionon duke pranuar, duke përpunuar dhe duke shfaqur të dhëna. Ai mund të kryejë një gamë të gjerë të detyrave, nga llogaritjet bazike deri te simulimet komplekse, duke ekzekutuar udhëzimet e ruajtura në memorien e tij.",
+    "follow_up_allowed": true,
+    "follow_up": [
+      {
+        "question": "Cilat janë komponentet e një kompjuteri?",
+        "answer": "Komponentet kryesore të një kompjuteri përfshijnë njësitën e përpunimit qendror (CPU), memorien (RAM), ruajtjen (hard drive ose solid-state drive), pajisjet hyrëse (tastierën, miun etj.), pajisjet dalëse (monitorin, printerin etj.), dhe kartën e bazës, e cila lidh dhe koordinon komunikimin midis këtyre komponenteve."
+      }
+    ]
+  }
+]
