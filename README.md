@@ -8,6 +8,6 @@
 ### No, because the Bot has been trained on a dataset to be for people to use it more faster.
 
 # What do i have to change?
-### You have to change the model name and the month and the year, model it's English, modeli it's is a Albanian, Modell it's is German, and month is English, muaj it's is Albanian, monat it's is German.
+### You have to change the model name and the month and the year, model it's English, modeli it's is a Albanian, Modell it's is German, and month is English, muaj it's is Albanian, monat it's is German and Date it's is English, 
 
 © 2024 DOSaAI, All Rights Reserved.
