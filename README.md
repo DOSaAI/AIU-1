@@ -10,4 +10,4 @@
 # What do i have to change?
 ### You can change the CSS style on what style you want and JavaScript but remember if you change the JavaScript it maybe to have error so don't change JavaScript only css you can freely.
 
-© 2024 DOSaAI, All Rights Reserved.
+© 2024 DOSaAI.
