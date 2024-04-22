@@ -7,9 +7,8 @@ document.addEventListener("DOMContentLoaded", async function () {
 
         // Define avatar URLs
         const avatarURL = isUser
-            ? "https://shqipgpt.000webhostapp.com/Logo/User.png"
-            : "https://open-whitegpt.000webhostapp.com/Logo/logo.jpg";
-
+            ? "https://raw.githubusercontent.com/DOSaAI/AIU-1_10Million_large_answer/main/User.png"
+            : "https://raw.githubusercontent.com/DOSaAI/AIU-1_10Million_large_answer/main/Bot.png"
         // Create and append avatar image
         const avatar = document.createElement("img");
         avatar.src = avatarURL;
